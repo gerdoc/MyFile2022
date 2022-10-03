@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyFile</string>
+    <string name="textoParaArchivo">Texto para el archivo</string>
+    <string name="textoDesdeArchivo">Texto del archivo</string>
+    <string name="escribir">Escribir</string>
+    <string name="leer">Leer</string>
+</resources>
